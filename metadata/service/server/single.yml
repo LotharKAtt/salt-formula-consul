@@ -1,0 +1,10 @@
+applications:
+- consul
+classes:
+- service.consul.support
+parameters:
+  consul:
+    server:
+      enabled: true
+      bind:
+        address: 0.0.0.0

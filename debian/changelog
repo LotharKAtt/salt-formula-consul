@@ -1,0 +1,5 @@
+salt-formula-consul (2018.5) xenial; urgency=medium
+
+  * Initial release
+
+ -- Ondrej Smola smolaon@gmail.com  Fri, 11 May 2018 10:36:26 BST
